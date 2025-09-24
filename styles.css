@@ -1,0 +1,34 @@
+body {
+    font-family:verdana;
+    text-align:center;
+    background-color: rgb(24, 15, 18);
+    color: rgb(245, 230, 235);
+}
+
+h1 {
+    font-size: 300%;
+    color: rgb(247, 178, 201);
+}
+
+h2, h3, h4, h5, h6, b, strong {
+    color: rgb(247, 178, 201);
+}
+
+.social-link:link {
+    color: rgb(226, 109, 148);
+    text-decoration: none;
+}
+
+.social-link:visited {
+    color: rgb(226, 109, 148);
+    text-decoration: none;
+}
+
+.social-link:hover, .social-link:active {
+    color: crimson;
+    text-decoration: underline;
+}
+
+hr {
+    visibility: hidden;
+}
