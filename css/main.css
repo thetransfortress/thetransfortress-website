@@ -33,3 +33,14 @@ hr {
     color: rgba(247, 178, 201, 0.25);
     width: 60%
 }
+
+#buttons-88x31 {
+    padding-top: 15px;
+}
+
+.button-88x31 {
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
